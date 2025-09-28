@@ -4,15 +4,10 @@ An intelligent tour guide system that uses RAG (Retrieval-Augmented Generation) 
 
 ## 🚀 Quick Start
 
-1. **Complete Setup** (Recommended):
+1. **Interactive Chat**:
    ```bash
    cd src
-   python pharaoh_rag_setup.py setup
-   ```
-
-2. **Interactive Chat**:
-   ```bash
-   python pharaoh_rag_setup.py chat
+   python model.py
    ```
 
 ## 📚 What's Included
