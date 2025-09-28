@@ -6,7 +6,7 @@ An intelligent tour guide system that uses RAG (Retrieval-Augmented Generation) 
 
 1. **Interactive Chat**:
    ```bash
-   cd src
+   cd src/pipeline
    python model.py
    ```
 
